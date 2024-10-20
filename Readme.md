@@ -15,3 +15,7 @@ pip install -r requirements.txt
     - go to: https://aistudio.google.com/app/apikey
     - create a file named: .env
     - paste the API key as GOOGLE_API_KEY
+
+## Run
+
+streamlit run app.py
